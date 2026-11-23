@@ -1,0 +1,153 @@
+{
+  "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v1/narr.mp3",
+  "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v1/clips",
+  "output": "/home/user/vidoes_normais/videos/001-mar-salgado/video.mp4",
+  "lines": [
+    {
+      "text": "Se a chuva é água doce, por que o mar é tão salgado?",
+      "start": 0,
+      "duration": 4.049
+    },
+    {
+      "text": "A resposta começa nas montanhas.",
+      "start": 4.049,
+      "duration": 2.586
+    },
+    {
+      "text": "Quando chove, a água fica levemente ácida e vai dissolvendo pedacinhos minúsculos das rochas.",
+      "start": 6.635,
+      "duration": 6.113
+    },
+    {
+      "text": "Os rios carregam esses minerais, principalmente sódio e cloro, até o oceano.",
+      "start": 12.748,
+      "duration": 5.564
+    },
+    {
+      "text": "Lá, o sol evapora a água, mas o sal fica pra trás.",
+      "start": 18.312,
+      "duration": 4.127
+    },
+    {
+      "text": "E isso acontece há bilhões de anos.",
+      "start": 22.439,
+      "duration": 3.004
+    },
+    {
+      "text": "Os vulcões no fundo do mar também ajudam, liberando ainda mais minerais.",
+      "start": 25.443,
+      "duration": 4.911
+    },
+    {
+      "text": "Resultado: cada litro de água do mar tem cerca de 35 gramas de sal.",
+      "start": 30.354,
+      "duration": 5.329
+    },
+    {
+      "text": "Se desse pra tirar todo o sal dos oceanos e espalhar sobre os continentes, ele formaria uma camada de mais de 150 metros de altura.",
+      "start": 35.683,
+      "duration": 8.673
+    },
+    {
+      "text": "Mais alto que um prédio de 40 andares!",
+      "start": 44.356,
+      "duration": 3.004
+    },
+    {
+      "text": "E o Mar Morto? Ele é quase 10 vezes mais salgado que o oceano, por isso você boia sem fazer nenhum esforço.",
+      "start": 47.36,
+      "duration": 7.393
+    },
+    {
+      "text": "Você já sabia disso? Comenta aí.",
+      "start": 54.753,
+      "duration": 2.429
+    }
+  ],
+  "segments": [
+    {
+      "clip": "c00.mp4",
+      "start": 0,
+      "end": 4.049,
+      "offset": 0
+    },
+    {
+      "clip": "c01.mp4",
+      "start": 4.049,
+      "end": 6.635,
+      "offset": 0
+    },
+    {
+      "clip": "c02.mp4",
+      "start": 6.635,
+      "end": 12.748,
+      "offset": 0
+    },
+    {
+      "clip": "c03.mp4",
+      "start": 12.748,
+      "end": 18.312,
+      "offset": 0
+    },
+    {
+      "clip": "c04.mp4",
+      "start": 18.312,
+      "end": 22.439,
+      "offset": 0
+    },
+    {
+      "clip": "c05.mp4",
+      "start": 22.439,
+      "end": 25.443,
+      "offset": 0
+    },
+    {
+      "clip": "c06.mp4",
+      "start": 25.443,
+      "end": 30.354,
+      "offset": 0
+    },
+    {
+      "clip": "c07.mp4",
+      "start": 30.354,
+      "end": 35.683,
+      "offset": 0
+    },
+    {
+      "clip": "c08.mp4",
+      "start": 35.683,
+      "end": 40.0,
+      "offset": 0
+    },
+    {
+      "clip": "c09.mp4",
+      "start": 40.0,
+      "end": 44.356,
+      "offset": 0
+    },
+    {
+      "clip": "c10.mp4",
+      "start": 44.356,
+      "end": 47.36,
+      "offset": 0
+    },
+    {
+      "clip": "c11.mp4",
+      "start": 47.36,
+      "end": 51.0,
+      "offset": 0
+    },
+    {
+      "clip": "c12.mp4",
+      "start": 51.0,
+      "end": 54.753,
+      "offset": 0
+    },
+    {
+      "clip": "c13.mp4",
+      "start": 54.753,
+      "end": 57.182,
+      "offset": 0
+    }
+  ]
+}
