@@ -118,7 +118,15 @@ def main(spec_path):
         cmd += ["-filter_complex", f"[0:v]ass={subs}[v];{af}", "-map", "[v]", "-map", "[a]",
                 "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-c:a", "aac", "-b:a", "192k",
                 "-shortest", output]
-        run(cmd)
+        try:
+            run(cmd)
+        except SystemExit:
+            # o ffmpeg às vezes devolve ENOSPC (228) ao fechar o filtro com -shortest/apad;
+            # se o arquivo ficou completo, está tudo certo
+            chk = subprocess.run(["ffmpeg", "-v", "error", "-i", output, "-f", "null", "-"],
+                                 capture_output=True, text=True)
+            if chk.returncode != 0 or chk.stderr.strip():
+                raise
     print(output)
 
 

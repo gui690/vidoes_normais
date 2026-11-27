@@ -1,0 +1,181 @@
+{
+  "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v2/narr.mp3",
+  "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v2/clips",
+  "output": "/home/user/vidoes_normais/videos/002-ceu-azul/video.mp4",
+  "lines": [
+    {
+      "text": "Se a luz do sol é branca, por que o céu é azul?",
+      "start": 0,
+      "duration": 3.318
+    },
+    {
+      "text": "A luz branca é, na verdade, uma mistura de todas as cores do arco-íris.",
+      "start": 3.318,
+      "duration": 4.676
+    },
+    {
+      "text": "Quando ela entra na atmosfera, bate em bilhões de moléculas de ar.",
+      "start": 7.993,
+      "duration": 4.284
+    },
+    {
+      "text": "E essas moléculas espalham muito mais a luz azul do que a vermelha.",
+      "start": 12.278,
+      "duration": 4.127
+    },
+    {
+      "text": "A luz azul tem ondas curtinhas, e é espalhada até 6 vezes mais que a vermelha.",
+      "start": 16.405,
+      "duration": 5.407
+    },
+    {
+      "text": "Por isso, pra onde você olha, chega luz azul de todos os lados.",
+      "start": 21.812,
+      "duration": 4.441
+    },
+    {
+      "text": "Mas e o pôr do sol? No fim do dia, a luz atravessa muito mais atmosfera até chegar em você.",
+      "start": 26.253,
+      "duration": 6.531
+    },
+    {
+      "text": "No caminho, quase todo o azul se espalha e se perde. Sobram o laranja e o vermelho.",
+      "start": 32.784,
+      "duration": 5.956
+    },
+    {
+      "text": "E por que o céu não é violeta, que tem ondas ainda menores?",
+      "start": 38.74,
+      "duration": 3.788
+    },
+    {
+      "text": "Porque o sol emite menos violeta, parte dele é absorvida lá no alto, e nossos olhos são muito mais sensíveis ao azul.",
+      "start": 42.527,
+      "duration": 7.628
+    },
+    {
+      "text": "Em Marte é o contrário: o céu é meio alaranjado de dia, e o pôr do sol é azul!",
+      "start": 50.155,
+      "duration": 5.642
+    },
+    {
+      "text": "Você já sabia disso? Comenta aí.",
+      "start": 55.798,
+      "duration": 2.429
+    }
+  ],
+  "segments": [
+    {
+      "url": "https://videos.pexels.com/video-files/30098016/12908063_1080_1920_30fps.mp4",
+      "start": 0,
+      "end": 3.318,
+      "clip": "seg00.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/28962683/12529290_1080_1920_30fps.mp4",
+      "start": 3.318,
+      "end": 7.993,
+      "clip": "seg01.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/38845657/16516363_1080_1920_25fps.mp4",
+      "start": 7.993,
+      "end": 12.278,
+      "offset": 0,
+      "clip": "seg02.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/12222644/12222644-hd_1080_1920_30fps.mp4",
+      "start": 12.278,
+      "end": 16.405,
+      "offset": 0,
+      "clip": "seg03.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/28699828/12455360_1080_1920_24fps.mp4",
+      "start": 16.405,
+      "end": 19.2,
+      "clip": "seg04.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/33705707/14315672_1080_1920_29fps.mp4",
+      "start": 19.2,
+      "end": 21.812,
+      "offset": 0,
+      "clip": "seg05.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/29056750/12560006_1080_1920_60fps.mp4",
+      "start": 21.812,
+      "end": 26.253,
+      "clip": "seg06.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35626509/15097840_1080_1920_60fps.mp4",
+      "start": 26.253,
+      "end": 29.5,
+      "offset": 0,
+      "clip": "seg07.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/11110306/11110306-hd_1080_1920_30fps.mp4",
+      "start": 29.5,
+      "end": 32.784,
+      "clip": "seg08.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/12598728/12598728-hd_1080_1920_60fps.mp4",
+      "start": 32.784,
+      "end": 38.74,
+      "offset": 0,
+      "clip": "seg09.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/7815386/7815386-hd_1080_1920_25fps.mp4",
+      "start": 38.74,
+      "end": 42.527,
+      "offset": 0,
+      "clip": "seg10.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/39536271/16845912_1080_1920_30fps.mp4",
+      "start": 42.527,
+      "end": 45.5,
+      "clip": "seg11.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/30267351/12975820_1080_1920_60fps.mp4",
+      "start": 45.5,
+      "end": 50.155,
+      "offset": 0,
+      "clip": "seg12.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8474606/8474606-hd_1080_1920_30fps.mp4",
+      "start": 50.155,
+      "end": 53.5,
+      "clip": "seg13.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8474610/8474610-hd_1080_1920_30fps.mp4",
+      "start": 53.5,
+      "end": 55.798,
+      "clip": "seg14.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/39575381/16867512_1080_1920_30fps.mp4",
+      "start": 55.798,
+      "end": 58.227,
+      "offset": 0,
+      "clip": "seg15.mp4"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v3/narr.mp3",
+  "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v3/clips",
+  "output": "/home/user/vidoes_normais/videos/003-gatos-caem-de-pe/video.mp4",
+  "lines": [
+    {
+      "text": "Por que os gatos quase sempre caem de pé?",
+      "start": 0,
+      "duration": 3.004
+    },
+    {
+      "text": "Eles têm um superpoder chamado reflexo de endireitamento.",
+      "start": 3.004,
+      "duration": 3.971
+    },
+    {
+      "text": "Assim que começam a cair, um sensor no ouvido interno avisa qual lado é pra cima.",
+      "start": 6.975,
+      "duration": 5.251
+    },
+    {
+      "text": "Primeiro, o gato gira a cabeça e a parte da frente do corpo.",
+      "start": 12.225,
+      "duration": 4.049
+    },
+    {
+      "text": "Depois, gira a parte de trás. Tudo numa fração de segundo.",
+      "start": 16.274,
+      "duration": 4.441
+    },
+    {
+      "text": "Isso só é possível porque a coluna deles é super flexível, e a clavícula não fica presa aos ombros.",
+      "start": 20.715,
+      "duration": 6.269
+    },
+    {
+      "text": "Os filhotes já começam a aprender isso com 3 semanas de vida.",
+      "start": 26.984,
+      "duration": 4.049
+    },
+    {
+      "text": "Num estudo com 132 gatos que caíram de prédios em Nova York, cerca de 90% sobreviveram.",
+      "start": 31.033,
+      "duration": 6.922
+    },
+    {
+      "text": "E os pesquisadores notaram algo estranho: quem caiu de mais de 7 andares se machucou menos.",
+      "start": 37.956,
+      "duration": 6.269
+    },
+    {
+      "text": "A teoria é que, depois de atingir a velocidade máxima, o gato relaxa e abre as patas como um paraquedas.",
+      "start": 44.225,
+      "duration": 6.609
+    },
+    {
+      "text": "Mas atenção: cair de pé não significa sair ileso. Tela na janela salva vidas!",
+      "start": 50.834,
+      "duration": 6.113
+    },
+    {
+      "text": "Você tem gato? Comenta o nome dele aí.",
+      "start": 56.947,
+      "duration": 2.508
+    }
+  ],
+  "segments": [
+    {
+      "url": "https://videos.pexels.com/video-files/6853400/6853400-hd_1080_2048_25fps.mp4",
+      "start": 0,
+      "end": 3.004,
+      "clip": "seg00.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6853188/6853188-hd_1080_2048_25fps.mp4",
+      "start": 3.004,
+      "end": 6.975,
+      "offset": 0,
+      "clip": "seg01.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/36242522/15369800_1080_1920_60fps.mp4",
+      "start": 6.975,
+      "end": 10.0,
+      "clip": "seg02.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/15297394/15297394-hd_1080_1920_30fps.mp4",
+      "start": 10.0,
+      "end": 12.225,
+      "clip": "seg03.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/7691953/7691953-hd_1080_2048_30fps.mp4",
+      "start": 12.225,
+      "end": 16.274,
+      "offset": 0,
+      "clip": "seg04.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6864984/6864984-hd_1080_2048_25fps.mp4",
+      "start": 16.274,
+      "end": 20.715,
+      "offset": 0,
+      "clip": "seg05.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/11245187/11245187-hd_1080_1920_24fps.mp4",
+      "start": 20.715,
+      "end": 24.0,
+      "offset": 0,
+      "clip": "seg06.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35486843/15033652_1080_1920_30fps.mp4",
+      "start": 24.0,
+      "end": 26.984,
+      "offset": 0,
+      "clip": "seg07.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/18966745/18966745-hd_1080_1920_60fps.mp4",
+      "start": 26.984,
+      "end": 31.033,
+      "offset": 0,
+      "clip": "seg08.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35419124/15006308_1080_1920_30fps.mp4",
+      "start": 31.033,
+      "end": 34.5,
+      "clip": "seg09.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/37806811/16036702_1080_1920_30fps.mp4",
+      "start": 34.5,
+      "end": 37.956,
+      "offset": 0,
+      "clip": "seg10.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/7066747/7066747-hd_1080_1920_24fps.mp4",
+      "start": 37.956,
+      "end": 41.0,
+      "clip": "seg11.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/39624697/16890886_1080_1920_60fps.mp4",
+      "start": 41.0,
+      "end": 44.225,
+      "offset": 0,
+      "clip": "seg12.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/28663010/12445553_1080_1920_60fps.mp4",
+      "start": 44.225,
+      "end": 47.5,
+      "offset": 0,
+      "clip": "seg13.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8719250/8719250-hd_1080_1920_30fps.mp4",
+      "start": 47.5,
+      "end": 50.834,
+      "clip": "seg14.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/17207685/17207685-hd_1080_1920_30fps.mp4",
+      "start": 50.834,
+      "end": 56.947,
+      "offset": 0,
+      "clip": "seg15.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/31421115/13403742_1080_1920_25fps.mp4",
+      "start": 56.947,
+      "end": 59.455,
+      "clip": "seg16.mp4",
+      "offset": 0
+    }
+  ]
+}
