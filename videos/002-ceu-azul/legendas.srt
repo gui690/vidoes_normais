@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:03,318
+Se a luz do sol é branca, por que o céu é azul?
+
+2
+00:00:03,318 --> 00:00:07,994
+A luz branca é, na verdade, uma mistura de todas as cores do arco-íris.
+
+3
+00:00:07,993 --> 00:00:12,277
+Quando ela entra na atmosfera, bate em bilhões de moléculas de ar.
+
+4
+00:00:12,278 --> 00:00:16,405
+E essas moléculas espalham muito mais a luz azul do que a vermelha.
+
+5
+00:00:16,405 --> 00:00:21,812
+A luz azul tem ondas curtinhas, e é espalhada até 6 vezes mais que a vermelha.
+
+6
+00:00:21,812 --> 00:00:26,253
+Por isso, pra onde você olha, chega luz azul de todos os lados.
+
+7
+00:00:26,253 --> 00:00:32,784
+Mas e o pôr do sol? No fim do dia, a luz atravessa muito mais atmosfera até chegar em você.
+
+8
+00:00:32,784 --> 00:00:38,740
+No caminho, quase todo o azul se espalha e se perde. Sobram o laranja e o vermelho.
+
+9
+00:00:38,740 --> 00:00:42,528
+E por que o céu não é violeta, que tem ondas ainda menores?
+
+10
+00:00:42,527 --> 00:00:50,155
+Porque o sol emite menos violeta, parte dele é absorvida lá no alto, e nossos olhos são muito mais sensíveis ao azul.
+
+11
+00:00:50,155 --> 00:00:55,797
+Em Marte é o contrário: o céu é meio alaranjado de dia, e o pôr do sol é azul!
+
+12
+00:00:55,798 --> 00:00:58,227
+Você já sabia disso? Comenta aí.
+

@@ -1,0 +1,177 @@
+{
+  "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v4/narr.mp3",
+  "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v4/clips",
+  "music": "/home/user/vidoes_normais/musica/fundo01.mp3",
+  "output": "/home/user/vidoes_normais/videos/004-bocejo/video.mp4",
+  "lines": [
+    {
+      "text": "Você vai bocejar antes desse vídeo acabar. Mas por que o bocejo é contagioso?",
+      "start": 0,
+      "duration": 5.642
+    },
+    {
+      "text": "Basta ver, ouvir ou até ler sobre alguém bocejando pra dar vontade.",
+      "start": 5.642,
+      "duration": 4.911
+    },
+    {
+      "text": "Cerca de metade dos adultos pega o bocejo dos outros.",
+      "start": 10.553,
+      "duration": 3.788
+    },
+    {
+      "text": "Os cientistas acreditam que isso tem a ver com empatia, e com o cérebro imitando quem está por perto.",
+      "start": 14.341,
+      "duration": 6.191
+    },
+    {
+      "text": "Tanto que a gente pega bocejo mais fácil de amigos e da família do que de estranhos.",
+      "start": 20.532,
+      "duration": 4.754
+    },
+    {
+      "text": "E crianças com menos de 4 anos quase nunca pegam bocejo.",
+      "start": 25.287,
+      "duration": 4.284
+    },
+    {
+      "text": "Mas, afinal, pra que serve bocejar?",
+      "start": 29.571,
+      "duration": 3.004
+    },
+    {
+      "text": "Uma das teorias mais aceitas é que o bocejo ajuda a resfriar o cérebro, puxando muito ar de uma vez.",
+      "start": 32.575,
+      "duration": 6.426
+    },
+    {
+      "text": "Por isso a gente boceja mais quando está cansado, entediado, ou num lugar abafado.",
+      "start": 39.001,
+      "duration": 5.486
+    },
+    {
+      "text": "E não é só gente: cachorros podem pegar o bocejo dos donos, e chimpanzés também bocejam por contágio.",
+      "start": 44.487,
+      "duration": 7.001
+    },
+    {
+      "text": "E aí, já bocejou? Comenta aí se esse vídeo te pegou.",
+      "start": 51.487,
+      "duration": 3.631
+    }
+  ],
+  "segments": [
+    {
+      "url": "https://videos.pexels.com/video-files/6032135/6032135-hd_1080_2048_25fps.mp4",
+      "start": 0,
+      "end": 2.8,
+      "offset": 0,
+      "clip": "seg00.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8342863/8342863-hd_1080_1920_25fps.mp4",
+      "start": 2.8,
+      "end": 5.642,
+      "offset": 0,
+      "clip": "seg01.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/7033439/7033439-hd_1080_1920_24fps.mp4",
+      "start": 5.642,
+      "end": 10.553,
+      "clip": "seg02.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6658334/6658334-hd_1080_2048_25fps.mp4",
+      "start": 10.553,
+      "end": 14.341,
+      "offset": 0,
+      "clip": "seg03.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35003022/14828954_1080_1920_30fps.mp4",
+      "start": 14.341,
+      "end": 17.4,
+      "clip": "seg04.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/41202986/17648775_1080_1920_30fps.mp4",
+      "start": 17.4,
+      "end": 20.532,
+      "offset": 0,
+      "clip": "seg05.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/3761094/3761094-hd_1080_1920_25fps.mp4",
+      "start": 20.532,
+      "end": 25.287,
+      "clip": "seg06.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/5894797/5894797-hd_1080_1920_30fps.mp4",
+      "start": 25.287,
+      "end": 29.571,
+      "offset": 0,
+      "clip": "seg07.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/7591937/7591937-hd_1080_1920_25fps.mp4",
+      "start": 29.571,
+      "end": 32.575,
+      "offset": 0,
+      "clip": "seg08.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35010179/14831284_1080_1920_30fps.mp4",
+      "start": 32.575,
+      "end": 36.0,
+      "clip": "seg09.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8795160/8795160-hd_1080_2048_24fps.mp4",
+      "start": 36.0,
+      "end": 39.001,
+      "offset": 0,
+      "clip": "seg10.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8342863/8342863-hd_1080_1920_25fps.mp4",
+      "start": 39.001,
+      "end": 41.8,
+      "offset": 0,
+      "clip": "seg11.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6762654/6762654-hd_1080_1920_25fps.mp4",
+      "start": 41.8,
+      "end": 44.487,
+      "offset": 0,
+      "clip": "seg12.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/36962770/15659454_1080_1920_24fps.mp4",
+      "start": 44.487,
+      "end": 48.0,
+      "clip": "seg13.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35356742/14980189_1080_1920_30fps.mp4",
+      "start": 48.0,
+      "end": 51.487,
+      "clip": "seg14.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6598885/6598885-hd_1080_1920_30fps.mp4",
+      "start": 51.487,
+      "end": 55.118,
+      "offset": 0,
+      "clip": "seg15.mp4"
+    }
+  ]
+}
