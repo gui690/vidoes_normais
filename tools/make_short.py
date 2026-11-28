@@ -108,16 +108,20 @@ def main(spec_path):
         subs = os.path.join(tmp, "caps.ass")
         build_captions(spec["lines"], subs)
 
+        # duração exata do vídeo final: evita que o áudio (apad / música em loop) rode para sempre
+        total = segs[-1]["end"] + END_PAD
         cmd = ["ffmpeg", "-y", "-i", video, "-i", narration]
         music = spec.get("music")
         if music:
             cmd += ["-stream_loop", "-1", "-i", p(music)]
-            af = "[1:a]apad[n];[2:a]volume=0.12[m];[n][m]amix=inputs=2:duration=first[a]"
+            af = (f"[1:a]apad=whole_dur={total:.3f}[n];"
+                  f"[2:a]atrim=0:{total:.3f},volume=0.12,afade=t=out:st={total - 1.5:.3f}:d=1.5[m];"
+                  "[n][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
         else:
-            af = "[1:a]apad[a]"
+            af = f"[1:a]apad=whole_dur={total:.3f}[a]"
         cmd += ["-filter_complex", f"[0:v]ass={subs}[v];{af}", "-map", "[v]", "-map", "[a]",
                 "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-c:a", "aac", "-b:a", "192k",
-                "-shortest", output]
+                "-t", f"{total:.3f}", output]
         try:
             run(cmd)
         except SystemExit:
