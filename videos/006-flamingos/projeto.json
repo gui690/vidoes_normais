@@ -1,34 +1,170 @@
 {
- "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v6/narr.mp3", "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v6/clips", "music": "/home/user/vidoes_normais/musica/fundo01.mp3",
- "output": "/home/user/vidoes_normais/videos/006-flamingos/video.mp4",
- "lines": [
-  {"text": "Os flamingos nascem cinzas. Então por que ficam cor-de-rosa?", "start": 0, "duration": 4.284},
-  {"text": "O segredo está no prato deles.", "start": 4.284, "duration": 2.429},
-  {"text": "Flamingos comem algas e pequenos camarões cheios de carotenoides, o mesmo pigmento que deixa a cenoura laranja.", "start": 6.713, "duration": 6.844},
-  {"text": "O corpo deles absorve esse pigmento e manda pras penas, pernas e bico.", "start": 13.558, "duration": 5.068},
-  {"text": "Os filhotes levam de 2 a 3 anos pra ficarem rosa de verdade.", "start": 18.625, "duration": 4.284},
-  {"text": "Quanto mais rosa o flamingo, mais bem alimentado ele está, e mais ele atrai parceiros.", "start": 22.909, "duration": 5.564},
-  {"text": "Se a comida muda, a cor desbota. Por isso, nos zoológicos, eles recebem suplementos na alimentação.", "start": 28.473, "duration": 6.844},
-  {"text": "E quando viram pais, eles alimentam os filhotes com um leite produzido na garganta, e chegam a perder parte da cor.", "start": 35.318, "duration": 7.001},
-  {"text": "E aquela pose numa perna só? Pesquisadores descobriram que ela gasta menos energia dos músculos.", "start": 42.318, "duration": 5.956},
-  {"text": "O corpo deles trava naturalmente na posição, e eles conseguem até dormir assim.", "start": 48.274, "duration": 5.251},
-  {"text": "Qual animal você quer ver aqui? Comenta aí.", "start": 53.525, "duration": 2.847}
- ],
- "segments": [
-  {"url": "https://videos.pexels.com/video-files/25972468/11924879_1080_1920_60fps.mp4", "start": 0, "end": 4.284},
-  {"url": "https://videos.pexels.com/video-files/39675271/16914751_1080_1920_60fps.mp4", "start": 4.284, "end": 6.713},
-  {"url": "https://videos.pexels.com/video-files/27047787/12056358_1080_1920_30fps.mp4", "start": 6.713, "end": 9.5, "offset": 3},
-  {"url": "https://videos.pexels.com/video-files/8351579/8351579-hd_1080_1920_30fps.mp4", "start": 9.5, "end": 11.8},
-  {"url": "https://videos.pexels.com/video-files/8801820/8801820-hd_1080_1920_24fps.mp4", "start": 11.8, "end": 13.558, "offset": 2},
-  {"url": "https://videos.pexels.com/video-files/34405827/14575669_1080_1920_60fps.mp4", "start": 13.558, "end": 18.625, "offset": 2},
-  {"url": "https://videos.pexels.com/video-files/16912393/16912393-hd_1080_1920_60fps.mp4", "start": 18.625, "end": 22.909, "offset": 3},
-  {"url": "https://videos.pexels.com/video-files/39599824/16880214_1080_1920_50fps.mp4", "start": 22.909, "end": 28.473, "offset": 3},
-  {"url": "https://videos.pexels.com/video-files/19767770/19767770-hd_1080_1920_60fps.mp4", "start": 28.473, "end": 32.0},
-  {"url": "https://videos.pexels.com/video-files/34746928/14730128_1080_1920_30fps.mp4", "start": 32.0, "end": 35.318},
-  {"url": "https://videos.pexels.com/video-files/35646618/15106190_1080_1920_30fps.mp4", "start": 35.318, "end": 38.8},
-  {"url": "https://videos.pexels.com/video-files/32053411/13662596_1080_1920_30fps.mp4", "start": 38.8, "end": 42.318, "offset": 3},
-  {"url": "https://videos.pexels.com/video-files/38632146/16408210_1080_1920_30fps.mp4", "start": 42.318, "end": 48.274, "offset": 2},
-  {"url": "https://videos.pexels.com/video-files/34973058/14814919_1080_1920_30fps.mp4", "start": 48.274, "end": 53.525},
-  {"url": "https://videos.pexels.com/video-files/32281594/13766664_1080_1906_30fps.mp4", "start": 53.525, "end": 56.372, "offset": 2}
- ]
+  "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v6/narr.mp3",
+  "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v6/clips",
+  "music": "/home/user/vidoes_normais/musica/fundo01.mp3",
+  "output": "/home/user/vidoes_normais/videos/006-flamingos/video.mp4",
+  "lines": [
+    {
+      "text": "Os flamingos nascem cinzas. Então por que ficam cor-de-rosa?",
+      "start": 0,
+      "duration": 4.284
+    },
+    {
+      "text": "O segredo está no prato deles.",
+      "start": 4.284,
+      "duration": 2.429
+    },
+    {
+      "text": "Flamingos comem algas e pequenos camarões cheios de carotenoides, o mesmo pigmento que deixa a cenoura laranja.",
+      "start": 6.713,
+      "duration": 6.844
+    },
+    {
+      "text": "O corpo deles absorve esse pigmento e manda pras penas, pernas e bico.",
+      "start": 13.558,
+      "duration": 5.068
+    },
+    {
+      "text": "Os filhotes levam de 2 a 3 anos pra ficarem rosa de verdade.",
+      "start": 18.625,
+      "duration": 4.284
+    },
+    {
+      "text": "Quanto mais rosa o flamingo, mais bem alimentado ele está, e mais ele atrai parceiros.",
+      "start": 22.909,
+      "duration": 5.564
+    },
+    {
+      "text": "Se a comida muda, a cor desbota. Por isso, nos zoológicos, eles recebem suplementos na alimentação.",
+      "start": 28.473,
+      "duration": 6.844
+    },
+    {
+      "text": "E quando viram pais, eles alimentam os filhotes com um leite produzido na garganta, e chegam a perder parte da cor.",
+      "start": 35.318,
+      "duration": 7.001
+    },
+    {
+      "text": "E aquela pose numa perna só? Pesquisadores descobriram que ela gasta menos energia dos músculos.",
+      "start": 42.318,
+      "duration": 5.956
+    },
+    {
+      "text": "O corpo deles trava naturalmente na posição, e eles conseguem até dormir assim.",
+      "start": 48.274,
+      "duration": 5.251
+    },
+    {
+      "text": "Qual animal você quer ver aqui? Comenta aí.",
+      "start": 53.525,
+      "duration": 2.847
+    }
+  ],
+  "segments": [
+    {
+      "url": "https://videos.pexels.com/video-files/25972468/11924879_1080_1920_60fps.mp4",
+      "start": 0,
+      "end": 4.284,
+      "clip": "seg00.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/39675271/16914751_1080_1920_60fps.mp4",
+      "start": 4.284,
+      "end": 6.713,
+      "clip": "seg01.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/27047787/12056358_1080_1920_30fps.mp4",
+      "start": 6.713,
+      "end": 9.5,
+      "offset": 0,
+      "clip": "seg02.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8351579/8351579-hd_1080_1920_30fps.mp4",
+      "start": 9.5,
+      "end": 11.8,
+      "clip": "seg03.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8801820/8801820-hd_1080_1920_24fps.mp4",
+      "start": 11.8,
+      "end": 13.558,
+      "offset": 0,
+      "clip": "seg04.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/34405827/14575669_1080_1920_60fps.mp4",
+      "start": 13.558,
+      "end": 18.625,
+      "offset": 0,
+      "clip": "seg05.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/16912393/16912393-hd_1080_1920_60fps.mp4",
+      "start": 18.625,
+      "end": 22.909,
+      "offset": 0,
+      "clip": "seg06.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/39599824/16880214_1080_1920_50fps.mp4",
+      "start": 22.909,
+      "end": 28.473,
+      "offset": 0,
+      "clip": "seg07.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/19767770/19767770-hd_1080_1920_60fps.mp4",
+      "start": 28.473,
+      "end": 32.0,
+      "clip": "seg08.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/34746928/14730128_1080_1920_30fps.mp4",
+      "start": 32.0,
+      "end": 35.318,
+      "clip": "seg09.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35646618/15106190_1080_1920_30fps.mp4",
+      "start": 35.318,
+      "end": 38.8,
+      "clip": "seg10.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/32053411/13662596_1080_1920_30fps.mp4",
+      "start": 38.8,
+      "end": 42.318,
+      "offset": 0,
+      "clip": "seg11.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/38632146/16408210_1080_1920_30fps.mp4",
+      "start": 42.318,
+      "end": 48.274,
+      "offset": 0,
+      "clip": "seg12.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/34973058/14814919_1080_1920_30fps.mp4",
+      "start": 48.274,
+      "end": 53.525,
+      "clip": "seg13.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/32281594/13766664_1080_1906_30fps.mp4",
+      "start": 53.525,
+      "end": 56.372,
+      "offset": 0,
+      "clip": "seg14.mp4"
+    }
+  ]
 }
