@@ -1,0 +1,170 @@
+{
+  "narration": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v5/narr.mp3",
+  "clips_dir": "/tmp/claude-0/-home-user-vidoes-normais/dfc27f55-2316-5cb1-89c0-029050fb0301/scratchpad/v5/clips",
+  "music": "/home/user/vidoes_normais/musica/fundo01.mp3",
+  "output": "/home/user/vidoes_normais/videos/005-cebola/video.mp4",
+  "lines": [
+    {
+      "text": "Por que cortar cebola faz a gente chorar, mesmo sem estar triste?",
+      "start": 0,
+      "duration": 4.127
+    },
+    {
+      "text": "A culpa é de uma defesa química que a cebola tem contra animais.",
+      "start": 4.127,
+      "duration": 4.127
+    },
+    {
+      "text": "Quando a faca rompe as células, duas substâncias que estavam separadas se misturam.",
+      "start": 8.255,
+      "duration": 5.251
+    },
+    {
+      "text": "Essa reação cria um gás invisível, que sobe direto pros seus olhos.",
+      "start": 13.505,
+      "duration": 4.519
+    },
+    {
+      "text": "Ele irrita os nervos dos olhos, e o cérebro manda produzir lágrimas pra lavar tudo.",
+      "start": 18.024,
+      "duration": 5.564
+    },
+    {
+      "text": "Quer chorar menos? Deixe a cebola uns 30 minutos na geladeira antes de cortar.",
+      "start": 23.589,
+      "duration": 4.989
+    },
+    {
+      "text": "O frio deixa a reação mais lenta, e sobe bem menos gás.",
+      "start": 28.578,
+      "duration": 4.127
+    },
+    {
+      "text": "Use uma faca bem afiada: ela esmaga menos células e libera menos gás.",
+      "start": 32.705,
+      "duration": 5.068
+    },
+    {
+      "text": "E deixe a raiz por último, porque é lá que essas substâncias ficam mais concentradas.",
+      "start": 37.773,
+      "duration": 4.989
+    },
+    {
+      "text": "Já existe até cebola que não faz chorar: ela foi criada por cruzamento natural e é vendida nos Estados Unidos.",
+      "start": 42.762,
+      "duration": 6.844
+    },
+    {
+      "text": "Qual truque você usa pra não chorar? Comenta aí.",
+      "start": 49.607,
+      "duration": 3.474
+    }
+  ],
+  "segments": [
+    {
+      "url": "https://videos.pexels.com/video-files/31479043/13421832_1080_1920_25fps.mp4",
+      "start": 0,
+      "end": 2.2,
+      "clip": "seg00.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6381028/6381028-hd_1080_1920_24fps.mp4",
+      "start": 2.2,
+      "end": 4.127,
+      "offset": 0,
+      "clip": "seg01.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/37138963/15733537_1080_1920_30fps.mp4",
+      "start": 4.127,
+      "end": 8.255,
+      "offset": 0,
+      "clip": "seg02.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/38878018/16528438_1080_1920_25fps.mp4",
+      "start": 8.255,
+      "end": 11.0,
+      "clip": "seg03.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/35717189/15137630_1080_1920_50fps.mp4",
+      "start": 11.0,
+      "end": 13.505,
+      "offset": 0,
+      "clip": "seg04.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6716513/6716513-hd_1080_2048_25fps.mp4",
+      "start": 13.505,
+      "end": 18.024,
+      "offset": 0,
+      "clip": "seg05.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8724225/8724225-hd_1080_2048_25fps.mp4",
+      "start": 18.024,
+      "end": 23.589,
+      "offset": 0,
+      "clip": "seg06.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/6595464/6595464-hd_1080_1920_30fps.mp4",
+      "start": 23.589,
+      "end": 28.578,
+      "offset": 0,
+      "clip": "seg07.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/7125860/7125860-hd_1080_1920_24fps.mp4",
+      "start": 28.578,
+      "end": 32.705,
+      "clip": "seg08.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/8477155/8477155-hd_1080_1920_24fps.mp4",
+      "start": 32.705,
+      "end": 35.5,
+      "offset": 0,
+      "clip": "seg09.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/4252302/4252302-hd_1080_2048_25fps.mp4",
+      "start": 35.5,
+      "end": 37.773,
+      "offset": 0,
+      "clip": "seg10.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/29522169/12707771_1080_1920_60fps.mp4",
+      "start": 37.773,
+      "end": 42.762,
+      "offset": 0,
+      "clip": "seg11.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/39670794/16912009_1080_1920_30fps.mp4",
+      "start": 42.762,
+      "end": 46.0,
+      "clip": "seg12.mp4",
+      "offset": 0
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/4253321/4253321-hd_1080_2048_25fps.mp4",
+      "start": 46.0,
+      "end": 49.607,
+      "offset": 0,
+      "clip": "seg13.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/3298698/3298698-hd_1080_2048_25fps.mp4",
+      "start": 49.607,
+      "end": 53.081,
+      "clip": "seg14.mp4",
+      "offset": 0
+    }
+  ]
+}
